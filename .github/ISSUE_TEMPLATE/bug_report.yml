@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a reproducible problem
+title: "bug: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: Do not include customer data, credentials, or payment details.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What happened and what should have happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Environment and evidence
+      description: App, platform, version, logs, or screenshots with sensitive data removed.
+

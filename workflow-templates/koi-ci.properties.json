@@ -1,7 +1,6 @@
 {
   "name": "Koi TypeScript CI",
-  "description": "Install, lint, type-check, test, and build a pnpm project.",
+  "description": "Run Koi's reproducible pnpm CI command with read-only permissions.",
   "iconName": "octicon check-circle",
   "categories": ["TypeScript", "continuous-integration"]
 }
-

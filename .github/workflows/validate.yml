@@ -1,0 +1,27 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required organization files
+        run: |
+          test -s profile/README.md
+          test -s CONTRIBUTING.md
+          test -s SECURITY.md
+          test -s CODE_OF_CONDUCT.md
+          test -s .github/CODEOWNERS
+          test -s .github/pull_request_template.md
+          test -s workflow-templates/koi-ci.yml
+          test -s workflow-templates/koi-ci.properties.json

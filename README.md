@@ -1,6 +1,6 @@
-# Koi TCG organization defaults
+# Forgekeep TCG organization defaults
 
-This repository supplies the public Koi TCG organization profile and shared
+This repository supplies the public Forgekeep TCG organization profile and shared
 community-health files for repositories that do not define their own.
 
 - [Contribution workflow](CONTRIBUTING.md)

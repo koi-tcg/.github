@@ -8,5 +8,5 @@ reproduction steps, and any suggested mitigation. Do not include real customer
 data or active secrets.
 
 Move this route to a business-controlled security email before public launch.
-Koi will acknowledge complete reports as soon as operationally possible; no
+Forgekeep will acknowledge complete reports as soon as operationally possible; no
 fixed response SLA applies during the private prototype.

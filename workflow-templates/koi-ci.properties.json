@@ -1,6 +1,6 @@
 {
-  "name": "Koi TypeScript CI",
-  "description": "Run Koi's reproducible pnpm CI command with read-only permissions.",
+  "name": "Forgekeep TypeScript CI",
+  "description": "Run Forgekeep's reproducible pnpm CI command with read-only permissions.",
   "iconName": "octicon check-circle",
   "categories": ["TypeScript", "continuous-integration"]
 }

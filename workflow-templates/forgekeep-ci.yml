@@ -1,4 +1,4 @@
-name: Koi CI
+name: Forgekeep CI
 
 on:
   pull_request:

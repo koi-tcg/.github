@@ -32,5 +32,5 @@ jobs:
           test -s .github/CODEOWNERS
           test -s .github/pull_request_template.md
           test -s .github/ISSUE_TEMPLATE/task.yml
-          test -s workflow-templates/koi-ci.yml
-          test -s workflow-templates/koi-ci.properties.json
+          test -s workflow-templates/forgekeep-ci.yml
+          test -s workflow-templates/forgekeep-ci.properties.json

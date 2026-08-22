@@ -1,0 +1,6 @@
+{
+  "name": "Forgekeep TypeScript CI",
+  "description": "Run Forgekeep's reproducible pnpm CI command with read-only permissions.",
+  "iconName": "octicon check-circle",
+  "categories": ["TypeScript", "continuous-integration"]
+}

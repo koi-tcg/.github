@@ -11,5 +11,5 @@
 
 Before another developer joins, upgrade the GitHub plan if necessary, enforce
 private-repository branch rules, review approval count, and document access and
-offboarding. Before launch, move contact, billing, and recovery to Koi business
+offboarding. Before launch, move contact, billing, and recovery to Forgekeep business
 identity with at least two recovery owners.

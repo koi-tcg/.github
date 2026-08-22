@@ -1,6 +1,6 @@
 # Contributing
 
-Koi TCG is currently developed in private repositories.
+Forgekeep TCG is currently developed in private repositories.
 
 - Open an issue before starting substantial work.
 - Branch from `main`; do not commit feature work directly to the default branch.
